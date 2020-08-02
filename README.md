@@ -4,6 +4,7 @@ Chatbot implementation using bucketing and sampled softmax.  <br/>
 
 **Main code is from Stanford's assignment - 2017** <br/>
 Files have been modified and updated with newer library versions <br/>
+*I personally recommend tensorflow-gpu 1.14 or tensorflow 1.2.1*
 
 **Main points of the model :** <br/>
 ● Bucketing :  *Avoid too much padding that leads to extraneous computation, group sequences of similar lengths into the same buckets & create a separate subgraph for each bucket.*<br/>
