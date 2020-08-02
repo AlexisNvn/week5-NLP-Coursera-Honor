@@ -1,5 +1,6 @@
 # week5-NLP-Coursera-Honor <br/>
-Chatbot implementation using bucketing and sampled softmax. 
+Chatbot implementation using bucketing and sampled softmax.  <br/>
+*Honor project - NLP course week5 - Coursera - HSE*
 
 **Main code is from Stanford's assignment - 2017** <br/>
 Files have been modified and updated with newer library versions <br/>
