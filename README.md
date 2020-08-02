@@ -22,7 +22,7 @@ sampling with a small number of samples.*
 ● Sometimes answers are a bit weird - Might need to train longer than I did (50000 iter - 5h)
 
 **Global conclusion :** <br/>
-It works quite well ! Most of answers are not out of context !
+It works not so bad ! Most of answers are not out of context !
 
 
 *Examples :*  <br/>
